@@ -18,19 +18,14 @@ div
 
 .card0
 {
-  margin: 20px 450px;;
+  margin: 20px 500px;;
   border-radius: 0;
-  box-shadow: 0 8px 16px 0 #52575D;
+  box-shadow: 0 16px 32px 0 #52575D;
 }
 
 .card2
 {
   margin: 1rem 3rem;
-}
-
-.title
-{
-  font-weight: bold;
 }
 
 .glitch-wrapper {
@@ -134,4 +129,38 @@ div
    to {
       transform: translate(0);
    }
+}
+
+.navbar
+{
+  margin: 1rem 5rem 3rem 5rem;
+}
+
+.navbar-brand
+{
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 60px;
+  font-weight: bolder;
+}
+
+footer {
+    text-align: center;
+    background: #f4f4f4;
+    padding: 50px 0;
+    margin-top: 5rem;
+}
+
+.list-inline {
+    padding-left: 0;
+    list-style: none;
+}
+
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
 }
