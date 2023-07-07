@@ -1,1 +1,6 @@
 # E-commerce
+
+
+Home page left
+Name of the website/company
+any other changes
