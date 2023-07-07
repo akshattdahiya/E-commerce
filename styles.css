@@ -1,0 +1,100 @@
+body
+{
+  font-family: 'Poppins', sans-serif;
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-size: 18px;
+    line-height: 25px;
+}
+
+.testimonials .testimonial-block .author-details img {
+    border-radius: 50%;
+    max-width: 50px;
+}
+
+img {
+    vertical-align: middle;
+    border-style: none;
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
+
+footer {
+    text-align: center;
+    background: #f4f4f4;
+    padding: 50px 0;
+    margin-top: 2rem;
+}
+
+.list-inline {
+    padding-left: 0;
+    list-style: none;
+}
+
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+
+.navbar-brand
+{
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 60px;
+  font-weight: bolder;
+}
+
+.main {
+  font-family: 'trebuchet ms';
+  font-weight: bold;
+  color: #000000 !important;
+  font-size: 17px;
+  text-shadow: 1px 1px 0px #C4C4C4;
+  box-shadow: 0px 0px 0px #BEE2F9;
+  padding: 12px 40px;
+  border-radius: 5px;
+  border: 2px solid #000000;
+  background: #C4C4C4;
+}
+.main:hover {
+  color: #14396A !important;
+  background: #E0E0E0;
+}
+
+button
+{
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+.navbar
+{
+  margin: 1rem 5rem 12rem 5rem;
+}
+
+.section
+{
+  margin: 5rem 2rem;
+}
+
+.testimonial-block
+{
+  margin: 2rem 1rem;
+}
+
+.list-inline-item
+{
+  padding: 1rem 2rem;
+  font-weight: bold;
+}
